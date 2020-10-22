@@ -16,3 +16,6 @@
 
 # 甘特圖
 ## https://hackmd.io/2HuLPqBRRHi7zgMkHIIV8g
+
+# PERT
+![PERT](https://github.com/minhonglolz/NKUST_SystemAnalysis/blob/main/PERT.jpg)
