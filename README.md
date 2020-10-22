@@ -3,9 +3,9 @@
 
 # 第8組 資安情報服務網站
 - 組長 C107118208 黃閔弘 :mens:
-- 組員 C107118201 詹翔yee :secret:
+- 組員 C107118201 詹翔驛 :secret:
 - 組員 C107118235 胡懷剛 :baby_symbol:
-- 組員 C107118238 rayko :baby_symbol:
+- 組員 C107118238 柯承睿 :baby_symbol:
 
 
 # 內容
