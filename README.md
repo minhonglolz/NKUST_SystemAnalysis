@@ -19,3 +19,16 @@
 
 # PERT
 ![PERT](https://github.com/minhonglolz/NKUST_SystemAnalysis/blob/main/PERT.jpg)
+
+# 功能性需求
+- 獲得最新的資安情報
+- 提供資安防護資訊
+- 可回報資安漏洞
+
+# 非功能性需求
+- 使用性
+- 可靠度
+- 效能
+
+# FDD
+![FDD](https://github.com/minhonglolz/NKUST_SystemAnalysis/blob/main/FDD.png)
