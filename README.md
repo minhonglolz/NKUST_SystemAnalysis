@@ -65,3 +65,11 @@
 | 說明         | 描述訂閱客製化內容過程      | 
 | 完成動作       | 使用者輸入欲獲得情報的Email並選取使用者想得知的資安情報     |  
 | 假設         | 無      | 
+
+
+# DFD
+![DFD](https://github.com/minhonglolz/NKUST_SystemAnalysis/blob/main/DFD.png)
+
+
+# DFD0
+![DFD](https://github.com/minhonglolz/NKUST_SystemAnalysis/blob/main/DFD0.png)
