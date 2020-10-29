@@ -38,3 +38,6 @@
 - 使用者可透過搜尋引擎尋找亦搜尋的資料
 - 使用者可以輸入信箱訂閱獲得客製化最新資訊
 - 使用者可提供漏洞情報提供服務平台更多情報
+
+# 使用案例圖
+(https://lucid.app/lucidchart/83156603-1118-4dfb-9b18-e90348c333ab/edit?beaconFlowId=C209D52923393C1B&page=0_0#?folder_id=home&browser=icon)
