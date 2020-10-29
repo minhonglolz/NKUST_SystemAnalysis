@@ -21,9 +21,9 @@
 ![PERT](https://github.com/minhonglolz/NKUST_SystemAnalysis/blob/main/PERT.jpg)
 
 # 功能性需求
-- 獲得最新的資安情報
-- 提供資安防護資訊(儀表板,搜尋引擎)
+- 獲得並提供資安防護資訊(儀表板,搜尋引擎)
 - 客製化使用者想得知的資訊，透過email訂閱寄送最新訊息
+- 提供漏洞回報表單
 
 # 非功能性需求
 - 使用性
