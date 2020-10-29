@@ -41,3 +41,10 @@
 
 # 使用案例圖
 (https://lucid.app/lucidchart/83156603-1118-4dfb-9b18-e90348c333ab/edit?beaconFlowId=C209D52923393C1B&page=0_0#?folder_id=home&browser=icon)
+
+# 使用案例說明
+| 使用案例名稱    | Are        |
+| ------------- |:-------------:| 
+| 第三欄         | 靠右對齊      | 
+| 第二欄         | 置中對齊      | 
+| 斑馬條紋       | 是整齊的      |  
