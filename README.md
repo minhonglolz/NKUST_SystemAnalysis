@@ -31,7 +31,7 @@
 - 效能
 
 # FDD
-(https://lucid.app/lucidchart/13f180fa-0334-4992-ae6d-a805026a1b37/edit?page=0_0#?folder_id=home&browser=icon)
+![FDD](https://github.com/minhonglolz/NKUST_SystemAnalysis/blob/main/FDD.png)
 
 # 需求分析
 - 使用者可透過儀表板查看目前所提供的所有資料
@@ -40,7 +40,7 @@
 - 使用者可提供漏洞情報提供服務平台更多情報
 
 # 使用案例圖
-(https://lucid.app/lucidchart/83156603-1118-4dfb-9b18-e90348c333ab/edit?beaconFlowId=C209D52923393C1B&page=0_0#?folder_id=home&browser=icon)
+![使用案例圖](https://github.com/minhonglolz/NKUST_SystemAnalysis/blob/main/projectInfo.png)
 
 # 使用案例說明
 | 使用案例名稱    | 查看儀表板        |
