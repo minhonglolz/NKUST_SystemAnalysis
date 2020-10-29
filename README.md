@@ -31,4 +31,10 @@
 - 效能
 
 # FDD
-!(https://lucid.app/lucidchart/13f180fa-0334-4992-ae6d-a805026a1b37/edit?page=0_0#?folder_id=home&browser=icon)
+(https://lucid.app/lucidchart/13f180fa-0334-4992-ae6d-a805026a1b37/edit?page=0_0#?folder_id=home&browser=icon)
+
+# 需求分析
+- 使用者可透過儀表板查看目前所提供的所有資料
+- 使用者可透過搜尋引擎尋找亦搜尋的資料
+- 使用者可以輸入信箱訂閱獲得客製化最新資訊
+- 使用者可提供漏洞情報提供服務平台更多情報
