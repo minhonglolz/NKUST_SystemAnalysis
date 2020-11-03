@@ -40,7 +40,7 @@
 - 使用者可提供漏洞情報提供服務平台更多情報
 
 # 使用案例圖
-![使用案例圖](https://github.com/minhonglolz/NKUST_SystemAnalysis/blob/main/projectInfo.png)
+![使用案例圖](https://github.com/minhonglolz/NKUST_SystemAnalysis/blob/main/使用案例圖.png)
 
 # 使用案例說明
 | 使用案例名稱    | 查看儀表板        |
