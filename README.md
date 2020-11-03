@@ -18,7 +18,7 @@
 ![甘特圖](https://github.com/minhonglolz/NKUST_SystemAnalysis/blob/main/甘特圖.png)
 
 # PERT
-![PERT](https://github.com/minhonglolz/NKUST_SystemAnalysis/blob/main/PERT.jpg)
+![PERT](https://github.com/minhonglolz/NKUST_SystemAnalysis/blob/main/PERT.png)
 
 # 功能性需求
 - 獲得並提供資安防護資訊(儀表板,搜尋引擎)
