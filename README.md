@@ -31,7 +31,7 @@
 - 效能
 
 # FDD
-![FDD](https://github.com/minhonglolz/NKUST_SystemAnalysis/blob/main/系統架構圖.png)
+![FDD](https://github.com/minhonglolz/NKUST_SystemAnalysis/blob/main/組織架構圖.png)
 
 # 需求分析
 - 使用者可透過儀表板查看目前所提供的所有資料
