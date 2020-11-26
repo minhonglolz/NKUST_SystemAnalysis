@@ -85,3 +85,9 @@
 
 # 循序圖3
 ![循序圖3](https://raw.githubusercontent.com/minhonglolz/NKUST_SystemAnalysis/main/循序圖3.png)
+
+# 活動圖2
+![活動圖2](https://github.com/minhonglolz/NKUST_SystemAnalysis/blob/main/活動圖2.png)
+
+# 活動圖3
+![活動圖3](https://github.com/minhonglolz/NKUST_SystemAnalysis/blob/main/活動圖3.png)
