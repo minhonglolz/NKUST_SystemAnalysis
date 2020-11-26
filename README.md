@@ -78,10 +78,10 @@
 ![UML](https://raw.githubusercontent.com/minhonglolz/NKUST_SystemAnalysis/main/UML.PNG)
 
 # 循序圖1
-![循序圖1](https://raw.githubusercontent.com/minhonglolz/NKUST_SystemAnalysis/main/循序圖1.PNG)
+![循序圖1](https://raw.githubusercontent.com/minhonglolz/NKUST_SystemAnalysis/main/循序圖1.png)
 
 # 循序圖2
-![循序圖2](https://raw.githubusercontent.com/minhonglolz/NKUST_SystemAnalysis/main/循序圖2.PNG)
+![循序圖2](https://raw.githubusercontent.com/minhonglolz/NKUST_SystemAnalysis/main/循序圖2.png)
 
 # 循序圖3
-![循序圖3](https://raw.githubusercontent.com/minhonglolz/NKUST_SystemAnalysis/main/循序圖3.PNG)
+![循序圖3](https://raw.githubusercontent.com/minhonglolz/NKUST_SystemAnalysis/main/循序圖3.png)
