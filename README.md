@@ -76,4 +76,3 @@
 
 # UML
 ![UML](https://raw.githubusercontent.com/minhonglolz/NKUST_SystemAnalysis/main/UML.PNG)
-https://raw.githubusercontent.com/minhonglolz/NKUST_SystemAnalysis/main/UML.PNG
