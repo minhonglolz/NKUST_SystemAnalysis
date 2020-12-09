@@ -94,3 +94,9 @@
 
 # 活動圖3
 ![活動圖3](https://github.com/minhonglolz/NKUST_SystemAnalysis/blob/main/活動圖3.png)
+
+#分鏡圖1
+![分鏡圖1](https://github.com/minhonglolz/NKUST_SystemAnalysis/blob/main/分鏡圖01.png)
+
+#分鏡圖1
+![分鏡圖2](https://github.com/minhonglolz/NKUST_SystemAnalysis/blob/main/分鏡圖02.png)
