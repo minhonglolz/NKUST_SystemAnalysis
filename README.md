@@ -102,9 +102,6 @@
 ![分鏡圖2](https://github.com/minhonglolz/NKUST_SystemAnalysis/blob/main/分鏡圖02.png)
 
 # 欄位名稱、設定及功能
-| 欄位名稱    | 資料型態        | 驗證規則   |  功能   |
-| ------------- |:-------------:| 
+| 欄位名稱    | 資料型態        | 驗證規則   |  功能   | 
 | 使用這者搜尋       | String     | 存在檢查(existence check) 資料型態檢查(data type check) | 產出相關資料
 | 圖表         | Pie      | 存在檢查(existence check) 資料型態檢查(data type check) | 根據現有資料庫產出圖表
-
-| 假設         | 無      | 
