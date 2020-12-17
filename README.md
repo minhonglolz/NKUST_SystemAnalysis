@@ -101,8 +101,18 @@
 # 分鏡圖2
 ![分鏡圖2](https://github.com/minhonglolz/NKUST_SystemAnalysis/blob/main/分鏡圖02.png)
 
-# 欄位名稱、設定及功能
+# 搜尋引擎
 | 欄位名稱    | 資料型態        | 驗證規則   |  功能   | 
 | ------------- | ------------- |------------- |------------- |
 | 使用這者搜尋       | String     | 存在檢查(existence check) 資料型態檢查(data type check) | 產出相關資料 |
-| 圖表         | Pie      | 存在檢查(existence check) 資料型態檢查(data type check) | 根據現有資料庫產出圖表 |
+| Type         | Select      | 存在檢查(existence check) 資料型態檢查(data type check) | 產出相關資料 |
+| Platfrom         | Select      | 存在檢查(existence check) 資料型態檢查(data type check) | 產出相關資料 |
+| Port         | Select      | 存在檢查(existence check) 資料型態檢查(data type check) | 產出相關資料 |
+| Tag         | Select      | 存在檢查(existence check) 資料型態檢查(data type check) | 產出相關資料 |
+
+# 圖表
+| 欄位名稱    | 資料型態        | 驗證規則   |  功能   | 
+| ------------- | ------------- |------------- |------------- |
+| 圖表1         | Pie      | 存在檢查(existence check) 資料型態檢查(data type check) | 歷年漏洞總量圖表 |
+| 圖表2         | Line      | 存在檢查(existence check) 資料型態檢查(data type check) | 漏洞成長比較表 |
+| 圖表3         | Line      | 存在檢查(existence check) 資料型態檢查(data type check) | 歷年漏洞成長比較表 |
