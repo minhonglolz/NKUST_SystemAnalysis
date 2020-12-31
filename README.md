@@ -116,3 +116,11 @@
 | 圖表1         | Pie      | 存在檢查(existence check) 資料型態檢查(data type check) | 歷年漏洞總量圖表 |
 | 圖表2         | Line      | 存在檢查(existence check) 資料型態檢查(data type check) | 漏洞成長比較表 |
 | 圖表3         | Line      | 存在檢查(existence check) 資料型態檢查(data type check) | 歷年漏洞成長比較表 |
+
+# ERD
+
+## 搜尋ERD
+![ERD1](https://github.com/minhonglolz/NKUST_SystemAnalysis/blob/main/ERD1.png)
+
+## 訂閱ERD
+![ERD2](https://github.com/minhonglolz/NKUST_SystemAnalysis/blob/main/ERD2.png)
