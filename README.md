@@ -9,6 +9,7 @@
 
 ### ppt連結
 ![ppt連結](https://drive.google.com/file/d/15ZHMdwv2B2ION5ORQK8f6GnSXiHiXv-0/view?usp=sharing)
+https://drive.google.com/file/d/15ZHMdwv2B2ION5ORQK8f6GnSXiHiXv-0/view?usp=sharing
 
 # 內容
 ## 本計畫主要目的在於: 提供使用者最新網路威脅情資 (Cyber Threat Intelligence)，分類出各項資訊安全類別讓使用者客製化想得知的情報，並提供漏洞回報服務功能。
