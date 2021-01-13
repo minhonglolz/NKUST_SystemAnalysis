@@ -8,7 +8,6 @@
 - 組員 C107118238 柯承睿 :baby_symbol:
 
 ### ppt連結
-![ppt連結](https://drive.google.com/file/d/15ZHMdwv2B2ION5ORQK8f6GnSXiHiXv-0/view?usp=sharing)
 https://drive.google.com/file/d/15ZHMdwv2B2ION5ORQK8f6GnSXiHiXv-0/view?usp=sharing
 
 # 內容
